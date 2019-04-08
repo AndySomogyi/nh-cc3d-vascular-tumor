@@ -4,7 +4,8 @@
 export LC_NUMERIC="C.UTF-8"
 
 # export PREFIX_CC3D=C:/CompuCell3D-64bit
-export PREFIX_CC3D=$(readlink -f $(dirname $0))
+# export PREFIX_CC3D=$(readlink -f $(dirname $0))
+export PREFIX_CC3D=/apps/compucell3d/current/CompuCell3D
 
 PYTHON_EXEC=/usr/bin/python
 
