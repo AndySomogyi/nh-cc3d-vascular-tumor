@@ -1,5 +1,5 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -C @tool/bin/compucell3d_cellsort2d.sh -t cc3dcellsort \
+/usr/bin/invoke_app "$@" -C @tool/bin/nh-cc3d-vascular-tumor.sh -t cc3dvasculartumor \
                          -u pyqt5-5.10.1 \
                          -u vtk-6.3.0
