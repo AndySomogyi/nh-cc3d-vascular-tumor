@@ -1,0 +1,164 @@
+{
+    "Version": "4.2.1",
+    "ScreenshotData": {
+        "Cell_Field_CellField_3D_0": {
+            "Plot": {
+                "PlotType": "CellField",
+                "PlotName": "Cell_Field"
+            },
+            "Dimension": "3D",
+            "Projection": {
+                "ProjectionPlane": null,
+                "ProjectionPosition": null
+            },
+            "CameraClippingRange": {
+                "Min": "243.58820662674057",
+                "Max": "897.7492051466099"
+            },
+            "CameraFocalPoint": {
+                "x": "130.09792252890668",
+                "y": "121.9413366282282",
+                "z": "48.37876406842556"
+            },
+            "CameraPosition": {
+                "x": "-334.90015970219224",
+                "y": "-3.6659723047550257",
+                "z": "397.7682051295968"
+            },
+            "CameraViewUp": {
+                "x": "-0.127558434142366",
+                "y": "0.9752080122844471",
+                "z": "0.18082637710070235"
+            },
+            "Size": {
+                "Width": 600,
+                "Height": 600
+            },
+            "CellBorders": false,
+            "Cells": true,
+            "ClusterBorders": false,
+            "CellGlyphs": false,
+            "FPPLinks": false,
+            "BoundingBox": true,
+            "LatticeAxes": true,
+            "LatticeAxesLabels": true,
+            "TypesInvisible": [
+                0
+            ],
+            "metadata": {
+                "BorderColor": [
+                    255,
+                    255,
+                    0,
+                    255
+                ],
+                "ClusterBorderColor": [
+                    0,
+                    0,
+                    255,
+                    255
+                ],
+                "BoundingBoxColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "AxesColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "ContourColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "WindowColor": [
+                    0,
+                    0,
+                    0,
+                    255
+                ],
+                "FPPLinksColor": [
+                    255,
+                    255,
+                    255,
+                    255
+                ],
+                "ShowHorizontalAxesLabels": true,
+                "ShowVerticalAxesLabels": true,
+                "TypeColorMap": {
+                    "0": [
+                        0,
+                        0,
+                        0,
+                        255
+                    ],
+                    "1": [
+                        0,
+                        0,
+                        255,
+                        255
+                    ],
+                    "2": [
+                        0,
+                        128,
+                        0,
+                        255
+                    ],
+                    "3": [
+                        255,
+                        0,
+                        0,
+                        255
+                    ],
+                    "4": [
+                        255,
+                        255,
+                        0,
+                        255
+                    ],
+                    "5": [
+                        165,
+                        42,
+                        42,
+                        255
+                    ],
+                    "6": [
+                        173,
+                        216,
+                        230,
+                        255
+                    ],
+                    "7": [
+                        144,
+                        238,
+                        144,
+                        255
+                    ],
+                    "8": [
+                        128,
+                        0,
+                        128,
+                        255
+                    ],
+                    "9": [
+                        255,
+                        165,
+                        0,
+                        255
+                    ],
+                    "10": [
+                        64,
+                        224,
+                        208,
+                        255
+                    ]
+                }
+            }
+        }
+    }
+}

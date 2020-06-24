@@ -1,5 +1,6 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -C @tool/bin/nh-cc3d-vascular-tumor.sh -t cc3dvasctumor \
-                         -u pyqt5-5.10.1 \
-                         -u vtk-6.3.0
+/usr/bin/invoke_app "$@" -C @tool/bin/cc3dvasctumor.sh -t cc3dvasctumor \
+                         -u compucell3d-4.1.1 \
+                         -w captive \
+                         -r none
