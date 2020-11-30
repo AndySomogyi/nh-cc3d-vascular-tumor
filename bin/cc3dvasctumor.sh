@@ -14,6 +14,8 @@ scriptPath=$0
 
 binDir=$(dirname ${scriptPath})
 
+export NANOHUB_SIM=${binDir}
+
 TOOL_HOME=$(dirname ${binDir})
 
 echo ${TOOL_HOME}
