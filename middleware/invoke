@@ -1,6 +1,6 @@
 #!/bin/sh
 
 /usr/bin/invoke_app "$@" -C @tool/bin/cc3dvasctumor.sh -t cc3dvasctumor \
-                         -u compucell3d-4.2.2 \
+                         -u compucell3d-4.4.0 \
                          -w captive \
                          -r none
